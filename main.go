@@ -23,7 +23,3 @@ func multiple(x, y int) int {
 	fmt.Println("I'm multiple function")
 	return x * y
 }
-
-func bar() {
-	fmt.Println("bar function")
-}
