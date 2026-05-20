@@ -19,5 +19,6 @@ func divide(x, y int) int {
 }
 
 func multiple(x, y int) int {
+	fmt.Println("I'm multiple function")
 	return x * y
 }
