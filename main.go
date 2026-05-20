@@ -23,3 +23,7 @@ func multiple(x, y int) int {
 	fmt.Println("I'm multiple function")
 	return x * y
 }
+
+func foo() {
+	fmt.Println("foo function")
+}
